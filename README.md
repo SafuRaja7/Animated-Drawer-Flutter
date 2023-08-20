@@ -5,8 +5,8 @@ This repository contains a Flutter project demonstrating how to create an animat
 
 
 ## ScreenShots and GIF
-![screenshot][screenshots/ss1.png]
-![screenshot][screenshots/gif.mp4]
+<img src="screenshots/ss1.png" alt="" width="230">    <img src="screenshots/gif.mp4" alt="" width="230">
+
 ## Features
 
 - Implements an animated transition for a more visually appealing drawer experience.
