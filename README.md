@@ -5,7 +5,8 @@ This repository contains a Flutter project demonstrating how to create an animat
 
 
 ## ScreenShots and GIF
-<img src="screenshots/ss1.png" alt="" width="230">    ![drawergif](screenshots/gif.gif)
+<img src="screenshots/ss1.png" alt="" width="230">    
+![drawergif](screenshots/mygif.gif)
 
 ## Features
 
