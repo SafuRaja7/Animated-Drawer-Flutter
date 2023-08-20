@@ -4,7 +4,9 @@
 This repository contains a Flutter project demonstrating how to create an animated drawer. An animated drawer provides a smooth transition effect when opening and closing the navigation drawer.
 
 
-
+## ScreenShots and GIF
+![screenshot][screenshots/ss1.png]
+![screenshot][screenshots/gif.mp4]
 ## Features
 
 - Implements an animated transition for a more visually appealing drawer experience.
